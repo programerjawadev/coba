@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <p>lorem</p>
     <h1>coba git remote</h1>
 </body>
 </html>
